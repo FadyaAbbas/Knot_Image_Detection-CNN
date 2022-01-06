@@ -1,5 +1,7 @@
-# MyKnotProject
+# Knot_Image_Detection-CNN
 
-This project has been done as quickly as possible (within 3 days), since I'm still an employee under an organization and still having other tasks to work for.
+The deep learning model uses a convolutional neural network (CNN). This model represents image recognition and detection to detect defective wood boards such as knots.
 
-This project will be improved in future (when I leave my current job) using YOLO and more training dataset.
+Image classification is the process of taking the input dataset photos and outputting a class as “healthy” or "Defective". the accuracy of this model is around 94% 
+
+This project will be improved using YOLO and more training datasets.
